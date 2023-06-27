@@ -1,6 +1,6 @@
 # WebServer
 
-c++经典项目，learned from：https://github.com/agedcat/WebServer
+c++经典项目，learn from：https://github.com/agedcat/WebServer
 
 环境：ubuntu20虚拟机
 
